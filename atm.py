@@ -1,4 +1,4 @@
-receipts = []
+receipts = [] # 영수증을 저장할 리스트
 balance = 3000  #현재 잔액을 보여주세요
 
 while True:
